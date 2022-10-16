@@ -1,0 +1,43 @@
+nav{
+    background-color: red;
+    border-radius: 30px;
+    color: #000;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;    
+}
+
+p,
+h1 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.logo{
+ margin-top: 25px;
+ margin-right: 10px;
+ float: right;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px ;
+  
+}
+
+.logo2{
+    height: 100px;
+     border-radius: 10px;
+     float: left;
+     margin-top: 25px;
+     margin-left: 10px;
+   
+   }
+   .h2 {
+    text-align: center;
+   }
+   .form-body{
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+  
+   }
